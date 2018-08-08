@@ -1,0 +1,8 @@
+﻿domain: <domain>
+fed_domain: <domain>
+org_id: xxxxxxx@AdobeOrg
+api_key: xxxxxxx
+client_secret: xxxxxxxx
+tech_acct: xxxxxx@techacct.adobe.com
+cert_filename: <path to pfx>
+cert_password: <cert password>
