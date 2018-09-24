@@ -1,5 +1,5 @@
 # AdobeUMAPI.FSharp
-This sample client should get you started with accessing the Adobe User Management API in .NET.
+This sample client should get you started with accessing the Adobe User Management API in .NET / F#
 
 To some degree it is based on https://github.com/adobe-apiplatform/umapi-documentation/blob/master/samples/JWTExchange.py
 
